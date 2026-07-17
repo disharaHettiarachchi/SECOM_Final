@@ -1,7 +1,7 @@
 streamlit==1.59.1
 pandas==3.0.3
 numpy==2.5.1
-# The committed Joblib artifact was trained with these exact library versions.
+xgboost
 scikit-learn==1.6.1
 plotly==6.9.0
 joblib==1.5.3
